@@ -1,0 +1,21 @@
+# Credentials and tokens
+credentials.json
+token.json
+.env
+
+# Generated data files
+active_tools.csv
+removed_tools.csv
+
+# Log files
+data_audit.log
+
+# Results directory
+/audit_results/
+
+# Generated audit results
+audit_results_*.json
+
+# Python cache
+__pycache__/
+*.pyc
